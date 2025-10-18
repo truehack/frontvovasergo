@@ -73,7 +73,7 @@ const Login: React.FC = () => {
                                     <IonIcon icon={logInOutline} slot="end" />
                                 </IonButton> */}
 
-                                <IonButton routerLink="/Register" color={'success'} type="button" expand="block" className="ion-margin-top">
+                                <IonButton routerLink="/Itproger" color={'success'} type="button" expand="block" className="ion-margin-top">
                                 Начать
                                 <IonIcon icon={personCircleOutline} slot="end" />
                                 </IonButton>
